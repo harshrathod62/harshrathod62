@@ -2,7 +2,7 @@
 
 Full Stack Developer | MERN | JavaScript | React | Java
 
-I build scalable web applications and AI powered tools.
+I build scalable web applications.
 
 ## 🚀 Skills
 - HTML

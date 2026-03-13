@@ -10,6 +10,7 @@ I build scalable web applications and AI powered tools.
 - JavaScript
 - React
 - Node.js
+- MongoDB
 - Firebase
 - Java
 - Git

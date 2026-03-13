@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Harsh Rathod</h1>
-🔭 I worked on IoT Based Lighting System
 
 📫 How to reach me: harshrathod8811@gmail.com
 
